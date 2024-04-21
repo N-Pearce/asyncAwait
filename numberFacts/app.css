@@ -1,0 +1,11 @@
+h1, h3, li {
+    color:grey;
+}
+
+li {
+    margin-top: 8px;
+}
+
+body {
+    background-color: aquamarine;
+}
